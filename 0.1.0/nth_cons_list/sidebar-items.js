@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["cons","Prepends the specified element at the head of the specified list."],["nil","Returns the empty list."]],"struct":[["Iter","An iterator over a list."],["List","An immutable cons list."]]});
